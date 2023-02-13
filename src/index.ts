@@ -15,3 +15,5 @@ Desvantagens:
 - Tempo de desenvolvimento aumenta bastante
 - Tenha cuidados com: YAGNI, KISS (You aren't gonna need it, Keep it simple, stupid!)
 */
+
+// OPEN CLOSED PRINCIPLE, ENTIDADES ABERTA PARA EXTENSÃO E FECHADAS PARA MODIFICAÇÃO
